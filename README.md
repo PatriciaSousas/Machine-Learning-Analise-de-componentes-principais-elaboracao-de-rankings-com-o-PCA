@@ -1,1 +1,1 @@
-# Machine-Learning-parte-2-otimizacao-com-exploracao-aleatoria
+# Machine Learning MLOps: deploy de modelos
